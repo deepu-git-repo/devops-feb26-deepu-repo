@@ -2,3 +2,5 @@ This is a test file
 New 2nd Line
 added 3rd line
 Line 4 added in local b1
+Testing
+Testing lines 6 for branch
